@@ -2,7 +2,8 @@
 
 A minimalist, ready-to-use Next.js starter template for connecting to Algorand wallets with dark mode support.
 
-![Algorand Connect Wallet Starter](https://placeholder.svg?height=400&width=800&query=Algorand+Connect+Wallet+Interface+with+dark+mode+toggle)
+![Algorand BlockChain Club JNTU](https://github.com/user-attachments/assets/e67941e5-5d2b-450b-a44e-66ec3a70df21)
+
 
 ## Why This Project Exists
 
